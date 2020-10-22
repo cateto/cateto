@@ -1,4 +1,4 @@
-### [노션 이력서](http://www.naver.com)
+### [노션 이력서](https://www.notion.so/Kate-Han-62bc914ed04a49f8ade03dca1d826fc3)
 
 <!--
 **cateto/cateto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
