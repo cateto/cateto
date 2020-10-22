@@ -1,4 +1,4 @@
-### Hi there 👋
+### [노션 이력서](http://www.naver.com)
 
 <!--
 **cateto/cateto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
