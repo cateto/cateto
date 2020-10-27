@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![cateto's github stats](https://github-readme-stats.vercel.app/api?username=cateto&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![cateto's github stats](https://github-readme-stats.vercel.app/api?username=cateto&theme=radical&show_icons=true)](https://www.notion.so/Kate-Han-62bc914ed04a49f8ade03dca1d826fc3)
