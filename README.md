@@ -1,5 +1,5 @@
 ### 안녕하세요!
-[이력서⚡](https://www.notion.so/Kate-Han-62bc914ed04a49f8ade03dca1d826fc3)
+[이력서⚡](https://www.notion.so/Kate-Han-58f56041ec28403a89fbf66bbd815305)
 
 <!--
 **cateto/cateto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
