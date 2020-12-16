@@ -1,5 +1,6 @@
 ### 안녕하세요!
 [이력서⚡](https://www.notion.so/Kate-Han-58f56041ec28403a89fbf66bbd815305)
+[그냥대충블로그](https://velog.io/@cateto)
 
 <!--
 **cateto/cateto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
