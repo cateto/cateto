@@ -16,21 +16,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Portfolio
-<br><br>
+- 😄 [Portfolio](https://www.notion.so/Kate-Han-58f56041ec28403a89fbf66bbd815305)
+
 - 🌱 Stack
-<br><br>
-<p>
+
+<div>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-</p>
-<br>
+</div>
+
 - 📫 Contact
-<p>
+<div>
 <a href="https://velog.io/@cateto"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
 <a href="mailto:u2skind@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
-</p>
+</div>
+
 - ⚡ Fun fact: I like Mint-Choco
