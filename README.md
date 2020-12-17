@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 <a href="mailto:u2skind@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 <p>
 
-<p align="center">⚡ Fun fact: I like Mint-Choco </p>
+<p align="center">⚡ Fun fact: I like Mint-Choco and <img src="https://img.shields.io/badge/Pokemon-FFCB05?style=flat-square&logo=Pokemon&logoColor=white"/></a>&nbsp </p>
