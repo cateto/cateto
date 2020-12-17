@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on
-<br>
+<br><br>
 - 🌱 I’m currently learning
 <br><br>
 <p>
@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 <br>
 - 📫 How to reach me: <a href="https://velog.io/@cateto"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
 <a href="mailto:u2skind@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+<br>
 - ⚡ Fun fact: I like Mint-Choco
