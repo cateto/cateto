@@ -46,4 +46,5 @@ Here are some ideas to get you started:
 <a href="mailto:u2skind@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 <p>
 
-<p align="center">⚡ Fun fact: I like <img src="https://img.shields.io/badge/MintChoco-34E0A1?style=flat-square&logoColor=white"/>&nbsp and <img src="https://img.shields.io/badge/Pokémon-FFCB05?style=flat-square&logo=Pokemon&logoColor=white"/>&nbsp </p>
+<p align="center">⚡ Fun fact
+  I like <img src="https://img.shields.io/badge/MintChoco-34E0A1?style=flat-square&logoColor=white"/>&nbsp and <img src="https://img.shields.io/badge/Pokémon-FFCB05?style=flat-square&logo=Pokemon&logoColor=white"/>&nbsp </p>
