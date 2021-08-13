@@ -39,7 +39,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/NLP-FB5BC5?style=flat-square&logo=NLP&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-1A73E8?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Swift-FE572B?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="center"> 📫  Contact </p>
