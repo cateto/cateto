@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 😄 <a href="https://www.notion.so/Kate-Han-58f56041ec28403a89fbf66bbd815305">Portfolio</a></p>
+<p align="center"> 😄 <a href="">Portfolio</a></p>
 
 <p align="center"> ⚒ Stack </p>
 
