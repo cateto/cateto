@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 😄 <a href="#">Portfolio</a></p>
+<p align="center"> 😄 <a href="#"></a></p>
+
+<p align="center"> 🌱 Currently Learning and Working </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/DL-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MLops-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>&nbsp
+</p>
 
 <p align="center"> ⚒ Stack </p>
 
@@ -32,14 +41,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 </p>
 
-<p align="center"> 🌱 Currently Learning </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/NLP-FB5BC5?style=flat-square&logo=NLP&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/R-1A73E8?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-</p>
 
 <p align="center"> 📫  Contact </p>
 <p align="center">
