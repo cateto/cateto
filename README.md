@@ -54,3 +54,21 @@ Here are some ideas to get you started:
 <p align="center">
   I like <img src="https://img.shields.io/badge/MintChoco-34E0A1?style=flat-square&logoColor=white"/>&nbsp and <img src="https://img.shields.io/badge/Pokémon-FFCB05?style=flat-square&logo=Pokemon&logoColor=white"/>&nbsp 
 </p>
+
+<p align="center"> 📚 Recently read Books </p>
+<p align="center">
+  <details align="center">
+  <summary> List of Books 😸  </summary>
+  <div markdown="1" align="center">
+    
+    
+   |date|title|author|cover|categories|keyword|stars|review|
+   |--|--|--|--|--|--|--|--|
+   ||의미와 의미분석|신현숙·김영란|<img style="width:100px" src="http://image.kyobobook.co.kr/images/book/xlarge/030/x9788956409030.jpg">|korean|```의미론```|★★★★★||
+   ||한국어 음운정보|신현숙|<img style="width:100px" src="http://image.kyobobook.co.kr/images/book/xlarge/099/x9791130806099.jpg">|korean|```음운론```|★★★★★||
+   |2021.12~2022.01|한 권으로 읽는 컴퓨터 구조와 프로그래밍|조너선 스타인하트|<img style="width:100px" src="https://blog.kakaocdn.net/dn/csVAFz/btq1g9JFnzB/7yFgRHfTWvkyMMxdLvWLyk/img.jpg">|computer science|```초급to중급개발자```, ```개발자마인드```, ```시간투자대비갓성비```,```고수준과저수준을모두담았다```|★★★★☆|작성중|
+   
+    
+  </div>
+  </details>
+</p>
