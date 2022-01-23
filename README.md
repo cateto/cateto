@@ -66,7 +66,8 @@ Here are some ideas to get you started:
    |--|--|--|--|--|--|--|--|
    ||의미와 의미분석|신현숙·김영란|<img style="width:100px" src="http://image.kyobobook.co.kr/images/book/xlarge/030/x9788956409030.jpg">|korean|```의미론```|★★★★★||
    ||한국어 음운정보|신현숙|<img style="width:100px" src="http://image.kyobobook.co.kr/images/book/xlarge/099/x9791130806099.jpg">|korean|```음운론```|★★★★★||
-   |2021.12~2022.01|한 권으로 읽는 컴퓨터 구조와 프로그래밍|조너선 스타인하트|<img style="width:100px" src="https://blog.kakaocdn.net/dn/csVAFz/btq1g9JFnzB/7yFgRHfTWvkyMMxdLvWLyk/img.jpg">|computer science|```초급to중급개발자```, ```개발자마인드```, ```시간투자대비갓성비```,```고수준과저수준을모두담았다```|★★★★☆|작성중|
+   |2021.12~2022.01|The Secret Life of Programs: Understand Computers -- Craft Better Code|Jonathan Steinhart|<img style="width:100px" src="https://blog.kakaocdn.net/dn/csVAFz/btq1g9JFnzB/7yFgRHfTWvkyMMxdLvWLyk/img.jpg">|computer science|```초급to중급개발자```, ```개발자마인드```, ```시간투자대비갓성비```,```고수준과저수준을모두담았다```|★★★★☆|작성중|
+   |2022.01~|System Design Interview - an Insider's Guide|Alex Xu|<img style="width:100px" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREn4RMVsckywf8T-KG8r2X832wW7ZfcRVQgIne7RLJr_NRxltL">|computer science| | | |
    
     
   </div>
