@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <p align="center"> 📚 Recently read Books </p>
 <p align="center">
   <details align="center">
-  <summary> List of Books 😸  </summary>
+  <summary> List of Books 😸 (Click 🖱️)  </summary>
   <div markdown="1" align="center">
     
     
