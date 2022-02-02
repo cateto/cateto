@@ -63,7 +63,7 @@ Here are some ideas to get you started:
    💻 <a href="http://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=1320">정보처리기사</a> | Engineer Information Processing <br/>
     📖 <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%90%EC%9B%90%EC%9E%90%EA%B2%A9%EA%B2%80%EC%A0%95%EB%A0%B9">중등학교정교사 2급</a> | Teacher's license in National Language <br/>
     👶 <a href="https://www.ihd.or.kr/introducesubject1.do">리눅스마스터 1급(예정)</a> | Linux Master <br/>
-     👶 <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B5%90%EC%9B%90%EC%9E%90%EA%B2%A9%EA%B2%80%EC%A0%95%EB%A0%B9">토플(예정)</a> | TOEFL <br/>
+     👶 <a href="https://www.ets.org/toefl">토플(예정)</a> | TOEFL <br/>
   </div>
   </details>
 </p>
