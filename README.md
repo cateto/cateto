@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/DL-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MLops-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MLOps-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apacheHadoop&logoColor=black"/></a>&nbsp
 </p>
 
