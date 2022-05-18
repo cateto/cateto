@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/DL-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MLOps-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apacheHadoop&logoColor=black"/></a>&nbsp
 </p>
 
