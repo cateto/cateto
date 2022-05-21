@@ -82,7 +82,8 @@ Here are some ideas to get you started:
    ||의미와 의미분석|신현숙·김영란|<img style="width:100px" src="http://image.kyobobook.co.kr/images/book/xlarge/030/x9788956409030.jpg">|korean|```의미론```|★★★★★||
    ||한국어 음운정보|신현숙|<img style="width:100px" src="http://image.kyobobook.co.kr/images/book/xlarge/099/x9791130806099.jpg">|korean|```음운론```|★★★★★||
    |2021.12~2022.01|The Secret Life of Programs: Understand Computers -- Craft Better Code|Jonathan Steinhart|<img style="width:100px" src="https://blog.kakaocdn.net/dn/csVAFz/btq1g9JFnzB/7yFgRHfTWvkyMMxdLvWLyk/img.jpg">|computer science|```초급to중급개발자```, ```개발자마인드```, ```시간투자대비갓성비```,```고수준과저수준을모두담았다```|★★★★☆|작성중|
-   |2022.01~|System Design Interview - an Insider's Guide|Alex Xu|<img style="width:100px" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREn4RMVsckywf8T-KG8r2X832wW7ZfcRVQgIne7RLJr_NRxltL">|computer science| | | |
+   |2022.01~2022.04|System Design Interview - an Insider's Guide|Alex Xu|<img style="width:100px" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREn4RMVsckywf8T-KG8r2X832wW7ZfcRVQgIne7RLJr_NRxltL">|computer science|```아키텍처 설계```, ```비즈니스```, ```대규모 서비스```, ```수직,수평적 확장```, ```Message Broker```, ```스케일 아웃```, ```DAU(Daily Active Users)```|★★★☆☆| |
+   |2022.05~|쿠버네티스 완벽 가이드|마사야 아오야마|<img style="width:100px" src="https://gimg.gilbut.co.kr/book/BN003105/rn_view_BN003105.jpg">|computer science| | | |
    
     
   </div>
